@@ -14,7 +14,10 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="F:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lzY6o6Cf1pofTQGHvbX2HyQD11" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
@@ -27,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="RunManager" selected="Go Build.go build btctext1Project (1)">
@@ -40,6 +44,7 @@
     </configuration>
     <configuration name="go build btctext1Project" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="btctext1Project" />
+      <working_directory value="$PROJECT_DIR$/" />
       <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="btctext1Project" />
